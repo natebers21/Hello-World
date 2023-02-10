@@ -6,6 +6,7 @@
 
 
 ## Goal
+*What are we trying to achieve with this*
 ## How to operate
 ## Files Used
 ## Additional Items 
