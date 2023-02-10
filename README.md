@@ -11,8 +11,8 @@
 <sub> What inputs does the user need to input <sub>
 
 ## Files Used
-  *File 1 for this part
-  *File 2 for this part
+  * File 1 for this part
+  * File 2 for this part
   
   
   
